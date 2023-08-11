@@ -1,0 +1,40 @@
+:root{
+	--bg-primary:#0e1a60;
+	--color-primary:#0e1a60;
+}
+
+
+/*Footer */
+
+footer {
+background: var(--bg-primary);
+padding: 100px 0px;
+color: #FFF;
+}
+
+ul.footer-address li i {
+position: absolute;
+left: 0;
+top: 50px;
+font-size: 22px;
+}
+
+ul.footer-address li {
+position: relative;
+padding-left: 35px;
+}
+
+ul.footer-address li a {
+color: #FFF;
+}
+
+.footer-widget h3 {
+margin-top: 30px;
+}
+
+ul.footer-menu li a {
+color: #FFF;
+font-size: 16px;
+margin-bottom: 8px;
+display: inline-block;
+}

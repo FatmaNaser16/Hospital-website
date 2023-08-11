@@ -1,0 +1,42 @@
+body{
+    margin-top: 0px;
+    background-color: #f9f9f9;
+}
+header .row{
+    max-width: 80px 0px;
+}
+header .row h5{
+color: var(--btn-color);
+font-size: 20px;
+margin: size 20px;
+margin: 40px 0px 10px 0px;
+}
+header h2{
+    color: var(--main-color);
+    font-size: 40px;
+    margin: 20px 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    width: 10p;
+}
+header button{
+    background-color: var(--btn-color) !important;
+    width: 200px;
+    height: 60px;
+    border: 1px solid var(--btn-color) !important;
+    margin-top: 20px;
+}
+header button a{
+    color: #fff;
+    font-size: 17px;
+    transition: .2s ease;
+}
+header button:hover a{
+color:#fff
+}
+
+
+header button:hover{
+    opacity: .6 ;
+}
